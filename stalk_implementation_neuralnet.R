@@ -1,4 +1,4 @@
-install.packages('neuralnet')
+#install.packages('neuralnet')
 library("neuralnet")
 
 # Regular implimentation of a Neral Network
@@ -12,7 +12,7 @@ xor.data <- data.frame(expand.grid(c(0,1), c(0,1)), XOR)
 print(net.xor <- neuralnet(XOR~Var1+Var2, xor.data, hidden=2, rep=5))
 plot(net.xor, rep="best")
 
-# This is a 
+# This is an implimentation o nthe infert data sets
 data(infert, package="datasets")
 print(net.infert <- neuralnet(case~parity+induced+spontaneous, infert,
                               err.fct="ce", linear.output=FALSE, likelihood=TRUE))
