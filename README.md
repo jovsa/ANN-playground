@@ -1,7 +1,7 @@
 Artificial Neural Network Playground
 =================================
 
-Here I implement and explore various techniques about Artificial Neural Networks (ANN).  
+Goal of this project is to explore various techniques on the implimentation of Artificial Neural Networks (ANN).  
   
 
 *Notable links:*  
