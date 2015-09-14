@@ -1,7 +1,7 @@
 Artificial Neural Network Playground
 =================================
 
-Goal of this project is to explore various techniques on the implimentation of Artificial Neural Networks (ANN).  
+Goal 1123 of this project is to explore various techniques on the implimentation of Artificial Neural Networks (ANN).  
   
 
 *Notable links:*  
